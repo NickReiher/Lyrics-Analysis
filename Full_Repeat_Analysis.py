@@ -25,7 +25,7 @@ import re
 def download_lyrics_by_artist(artists):
     
     #put your own Genius API code here - https://docs.genius.com/
-    api_code = 'FH3YZPIr25z08uywhWrvdZG1BwHk3vOMPa7a9uAU5LAyRamQjdcU_1QhtRu3jriT'
+    api_code = '<insert your own api code here'
     api = genius.Genius(api_code)
         
 
